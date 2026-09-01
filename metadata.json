@@ -1,0 +1,6 @@
+{
+  "name": "AOSP Gallery & Video",
+  "description": "Lightweight AOSP and MIUI inspired gallery and universal video playback app with dark mode battery efficiency and offline media access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
